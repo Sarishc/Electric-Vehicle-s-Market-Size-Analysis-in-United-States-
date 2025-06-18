@@ -21,7 +21,7 @@ Explore the interactive dashboard built with Tableau:
 - Electric range comparisons
 - Real-time filtering by year, type, and make
 
-🔗 [**View the Tableau Dashboard**](#) *(upload to Tableau Public and insert link)*
+🔗 [**[View the Tableau Dashboard**](https://public.tableau.com/app/profile/sarish.chavan/vizzes)](#) *(upload to Tableau Public and insert link)*
 
 ## 🌍 Real-World Impact
 
