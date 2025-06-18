@@ -12,8 +12,7 @@ This project explores the growth and trends of the U.S. Electric Vehicle (EV) ma
 - Insights into electric range progression
 - Market size forecasting
 
-➡️ Run the notebook: [`(https://github.com/Sarishc/Electric-Vehicle-s-Market-Size-Analysis-in-United-States-/blob/main/Electric%20Vehicles%20Market%20Size%20Analysis.ipynb)`]
-
+➡️ Run the notebook: [`https://github.com/Sarishc/Electric-Vehicle-s-Market-Size-Analysis-in-United-States-/blob/main/Electric%20Vehicles%20Market%20Size%20Analysis.ipynb']
 ### 📊 Tableau Dashboard
 Explore the interactive dashboard built with Tableau:
 - State-wise and county-level EV distribution
