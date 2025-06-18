@@ -12,7 +12,7 @@ This project explores the growth and trends of the U.S. Electric Vehicle (EV) ma
 - Insights into electric range progression
 - Market size forecasting
 
-➡️ Run the notebook: [`[Electric Vehicles Market Size Analysis.ipynb](https://github.com/Sarishc/Electric-Vehicle-s-Market-Size-Analysis-in-United-States-/blob/main/Electric%20Vehicles%20Market%20Size%20Analysis.ipynb)`](./Electric%20Vehicles%20Market%20Size%20Analysis.ipynb)
+➡️ Run the notebook: [`(https://github.com/Sarishc/Electric-Vehicle-s-Market-Size-Analysis-in-United-States-/blob/main/Electric%20Vehicles%20Market%20Size%20Analysis.ipynb)`]
 
 ### 📊 Tableau Dashboard
 Explore the interactive dashboard built with Tableau:
@@ -21,7 +21,7 @@ Explore the interactive dashboard built with Tableau:
 - Electric range comparisons
 - Real-time filtering by year, type, and make
 
-🔗 [**[View the Tableau Dashboard**](https://public.tableau.com/app/profile/sarish.chavan/vizzes)](#) *(upload to Tableau Public and insert link)*
+🔗 [**[View the Tableau Dashboard**](https://public.tableau.com/app/profile/sarish.chavan/vizzes)]
 
 ## 🌍 Real-World Impact
 
